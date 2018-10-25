@@ -1,4 +1,4 @@
-.ORIG x4000
+.ORIG x3000
 
 LD R0, STRING1
 
